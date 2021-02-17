@@ -13,8 +13,6 @@ I am focused on web and mobile front-end . I'm always seeking to learn new thing
 
 <br/> Contact me: <br/>  [![Linkedin Badge](https://img.shields.io/badge/-JessicaPeixoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicafpx/)](https://www.linkedin.com/in/jessicafpx/) [![Gmail Badge](https://img.shields.io/badge/-jessica.fpeixoto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessica.fpeixoto@gmail.com)](mailto:jessica.fpeixoto@gmail.com)
 
-
-<br/>
 <br/>
 
 <a href="https://github.com/jessicafpx/github-readme-stats">
