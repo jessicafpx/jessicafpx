@@ -3,7 +3,7 @@
 
 Hi there, my name is Jessica Peixoto. I'm graduated in Graphic Design at UFG and I have experience in the UX/UI area. I'm currently migrating career for the development area and studying System Analysis and Development at PUC-GO. 
 
-I am focused on web and mobile front-end . I'm always seeking to learn new things about development and have interest in user's interaction and experience.
+I am focused on web and mobile front-end. I'm always seeking to learn new things about development and have interest in user's interaction and experience.
 
 🚀 I'm a volunteer mentor on Rocketseat's Space Squad;
 
