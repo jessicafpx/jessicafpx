@@ -7,8 +7,6 @@ Hi there, my name is Jessica Peixoto. I'm a front-end web developer.
 
 👩‍💻 I’m currently working at Wiser Educação;
 
-🚀 I'm a volunteer mentor at Rocketseat's Space Squad;
-
 ⚡ Tech stack: ReactJS, Next, JavaScript, TypeScript, HTML, CSS, React Native;
 
 💬 About me: I like technologies, watch movies and series, read books and cook.
