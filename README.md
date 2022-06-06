@@ -1,5 +1,5 @@
 
-# <h1 align="left">Hi! I'm Jessica Peixoto <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h1>
+# <h1 align="left">Hi! I'm Jessica Peixoto</h1>
 
 Hi there, my name is Jessica Peixoto. I'm a front-end web developer. 
 
